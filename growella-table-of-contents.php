@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Growella Table of Contents
- * Description: Automatically generate and render a Table of Contents for a post.
- * Version:     0.1.0
- * Author:      Growella
- * Author URI:  https://growella.com
+ * Plugin Name: Sticky TOC
+ * Description: Automatically generate and render a table of contents which holds its position while scrolling.
+ * Version:     0.1.1
+ * Author:      Rawle Murdy Associates
+ * Author URI:  https://www.rawlemurdy.com
  * License:     MIT
  *
  * @package Growella\TableOfContents
